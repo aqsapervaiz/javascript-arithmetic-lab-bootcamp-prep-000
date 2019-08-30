@@ -27,5 +27,5 @@ function makeInt(a) {
 }
 
 function makeInt(a) {
-  return a=a ;
+  return a=a;
 }
