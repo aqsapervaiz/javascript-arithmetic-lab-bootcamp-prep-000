@@ -1,4 +1,3 @@
-add(4,2)
-subtract(4,2)
-multiply(4,2)
-divide(4,2)
+function add(string) {
+  return "1,2"
+}
