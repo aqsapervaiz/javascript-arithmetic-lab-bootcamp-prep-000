@@ -25,3 +25,7 @@ function dec(a) {
 function makeInt(a) {
   return a+1
 }
+
+function makeInt(a) {
+  return a=a
+}
