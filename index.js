@@ -1,3 +1,3 @@
-function add('4,2) {
-  return x+y
+function add(a,b) {
+  return a+b
 }
